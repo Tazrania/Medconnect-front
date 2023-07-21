@@ -1,0 +1,71 @@
+.contain-sign {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.child-sign {
+    width: 90%;
+    max-width: 600px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.imgLogo {
+    margin-top: -15px;
+    width: 200px;
+    height: 200px;
+    margin-left: 100px;
+
+}
+
+.SignForm {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    max-width: 400px;
+}
+
+.firstName,
+.lastName,
+.mail-sign,
+.age-sign,
+.mdp-sign {
+    margin: 10px;
+    height: 40px;
+    width: 400px;
+    border-radius: 5px;
+    background-color: #ebebeb;
+    border: none;
+    padding-left: 20px;
+}
+
+.mdp-sign {
+    width: 100%;
+}
+
+.signBtn {
+    height: 30px;
+    width: 100px;
+    margin: 20px;
+    border-radius: 5px;
+    border: none;
+    background-color: #2b7783;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.firstName::placeholder,
+.lastName::placeholder,
+.mail-sign::placeholder,
+.age-sign::placeholder,
+.mdp-sign {
+    color: gray;
+}
+
+.signBtn:hover {
+    background-color: #194a51;
+}

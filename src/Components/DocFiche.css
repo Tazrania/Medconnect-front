@@ -1,0 +1,43 @@
+.main-content{
+    float: right;
+    box-shadow: 0px 7px 29px 0px #64646f33;
+    border-radius: 10px;
+    width: 980px;
+    height: 1080px;
+    margin-right: 110px;
+    margin-top: 60px;
+    text-align: center;
+}
+
+.span-DocFiche{
+    width: 32px;
+    height: 32px;
+    background-color: #2b7783;
+    border-radius: 15px;
+    padding: 15px;
+}
+
+.appointment-location{
+    margin-bottom: 50px;
+    margin-top: 50px;
+}
+
+.appointment-for , .first-time ,.appointment-availability , .verify-info ,   .take-appointment , .accept-conditions{
+    margin-top: 50px;
+}
+
+.take-appointment{
+    padding: 10px;
+    color: black;
+    background-color:#2b7783 ;
+    border: none;
+    border-radius: 5px;
+    font-weight: bold;
+    margin-top: 20px;
+    width: 180px;
+    cursor: pointer;
+}
+
+.take-appointment:hover{
+    background-color: #18444b;
+}

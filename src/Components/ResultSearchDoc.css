@@ -1,0 +1,15 @@
+.result-search-doc{
+    height: 600px;
+}
+
+
+
+.affiche-rslt{
+    text-align: center;
+    color: black;
+    font-size: 35px;
+    margin-top: 150px;
+    font-family: 'Montserrat', sans-serif;
+    margin-left: 20px;
+
+}

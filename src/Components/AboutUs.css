@@ -1,0 +1,57 @@
+.contain-about{
+    height: 750px;
+}
+
+.child-about{
+    display: flex;
+    justify-content: center;
+}
+
+.whoRwe{
+    font-size: 35px;
+    margin-top: 60px;
+    font-weight: bold;
+}
+
+.boxesabout{
+    display: flex;
+    justify-content: center;
+    height: 600px;
+    width: 90%;
+    margin-left: 80px;
+    column-gap: 100px;
+}
+
+
+.box-one{
+    box-shadow: 0px 7px 29px 0px #64646f33;
+    border-radius: 15px;
+    height: 450px;
+    width: 45%;
+}
+
+.title-box{
+    font-weight: bold;
+    font-size: 25px;
+    margin-left: 30px;
+}
+.txt-box{
+    margin-top: 50px;
+    font-size: 18px;
+    color: black;
+
+}
+
+.box-two{
+    box-shadow: 0px 7px 29px 0px #64646f33;
+    border-radius: 15px;
+    height: 450px;
+    width: 45%;
+    margin-top: 50px;
+}
+
+.rheumato{
+    height: 420px;
+    width: 77%;
+    margin-left: 80px;
+}

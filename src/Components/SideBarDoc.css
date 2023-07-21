@@ -1,0 +1,45 @@
+.sidebar {
+    height: 1200px;
+    width: 300px;
+    float: left;
+    box-shadow: 0px 7px 29px 0px #64646f33;
+    background-color: #2b77835e;
+    display: flex;
+    justify-content: center;
+
+}
+
+.profile-picture {
+    border-radius: 10px;
+    height: 200px;
+    width: 200px;
+    box-shadow: 0px 7px 29px 0px #64646f33;
+    margin-top: 25px;
+}
+
+.img-SideBarDoc {
+    height: 200px;
+    width: 200px;
+}
+
+
+.contbtn-SideBarDoc{
+    display: flex;
+    justify-content: center;
+}
+
+.btn-SideBarDoc {
+    margin-top: 30px;
+    height: 30px;
+    width: 100px;
+    border-radius: 5px;
+    border: none;
+    background-color: #2b7783;
+    font-weight: bold;
+    
+}
+
+.btn-SideBarDoc:hover {
+    cursor: pointer;
+    background-color: #194a51;
+}

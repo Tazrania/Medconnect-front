@@ -1,0 +1,51 @@
+.childMyInfo {
+    height: 650px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.detailsMyinfo {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+    margin-top: 100px;
+    
+}
+
+.formMyinfo {
+    height: 600px;
+    width: 80%;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0px 7px 29px 0px #64646f33;
+}
+
+.inpt-Save {
+    width: 400px;
+    margin-bottom: 10px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.btn-infoSave {
+    padding: 10px;
+    color: black;
+    background-color:#2b7783 ;
+    border: none;
+    border-radius: 5px;
+    font-weight: bold;
+    width: 150px;
+    cursor: pointer;
+    float: right;
+    margin-right: 170px;
+    margin-top: 100px;
+
+}
+
+.btn-infoSave:hover{
+    background-color: #18444b;
+}

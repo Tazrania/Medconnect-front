@@ -1,0 +1,72 @@
+.contain-login {
+    height: 700px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    
+}
+
+.child-login {
+    height: 600px;
+    width: 650px;
+    align-self: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center; 
+    margin-top: 100px;
+}
+
+.imgLogo{
+    margin-top: -15px;
+}
+
+.logForm{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.email , .password{
+    margin: 10px;
+    height: 40px;
+    width: 400px;
+    border-radius: 5px;
+    background-color: #ebebeb;
+    border: none;
+}
+
+.logBtn{
+    height: 30px;
+    width: 100px;
+    margin: 20px;
+    border-radius: 5px;
+    border: none;
+    background-color: #2b7783;
+    font-weight: bold;
+    cursor: pointer;
+
+}
+
+.logBtn:hover{
+    background-color:#194a51 ;
+}
+
+.email::placeholder,
+.password::placeholder{
+padding-left: 20px; 
+}
+
+.notYet{
+    color: black;
+}
+
+.spn{
+    color: #2b7783;
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+.spn:hover{
+    cursor: pointer;
+    font-weight: bold;
+}

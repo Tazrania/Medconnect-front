@@ -1,0 +1,78 @@
+.child-info {
+    height: 850px;
+    width: 300px;
+    float: left;
+    box-shadow: 0px 7px 29px 0px #64646f33;
+    background-color: #2b77835e;
+
+}
+
+.jane-info {
+    width: 270px;
+    height: 100px;
+    margin-top: 50px;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0px 7px 29px 0px #64646f33;
+    background-color: #f1f1f1;
+
+}
+
+.user-info{
+    height: 50px;
+    margin-left: 20px;
+    margin-top: 15px;
+}
+
+
+.childJane-doe {
+    float: right;
+    margin-right: 100px;
+    font-size: 20px;
+    
+}
+.childJane-doe p{
+    color: black;
+    font-weight: bold;
+
+}
+
+.details-jane{
+    margin-top: 100px;
+    line-height: 2;
+    margin-left: 10px;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0px 7px 29px 0px #64646f33;
+    background-color: #f1f1f1;
+    height: 170px;
+}
+
+.details-jane p {
+    color: black;
+    padding-top: 20px;
+    margin-left: 20px;
+}
+
+.details-jane span{
+    font-weight: bold;
+    color: #2b7783;
+}
+
+.btn-jane{
+    padding: 10px;
+    color: black;
+    background-color:#2b7783 ;
+    border: none;
+    border-radius: 5px;
+    font-weight: bold;
+    margin-top: 200px;
+    width: 150px;
+    cursor: pointer;
+    margin-left: 60px;
+}
+
+.btn-jane:hover{
+    background-color: #18444b;
+}
+

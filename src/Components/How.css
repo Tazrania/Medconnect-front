@@ -1,0 +1,95 @@
+.parent {
+    height: 750px;
+    width: 100%;
+    background-color: #2b77835e;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.explication {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.txt {
+    font-size: 30px;
+
+    font-family: 'Monserrat', sans-serif;
+    width: fit-content;
+    height: 35px;
+    color: #2b7783;
+}
+
+.animations {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: repeat(1, 1fr);
+    align-self: center;
+    grid-column-gap: 20px;
+}
+
+.dr2,.dr3,.dr4 {
+    width: 400px;
+    height: 400px;
+}
+
+.caption {
+    text-align: center;
+    margin-top: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: black;
+    font-size: 19px;
+}
+
+.parent {
+    height: 750px;
+    width: 100%;
+    background-color: #2b77835e;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.explication {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.txt {
+    font-size: 30px;
+    font-family: 'Monserrat', sans-serif;
+    width: fit-content;
+    height: 35px;
+    color: #2b7783;
+}
+
+.animations {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: repeat(1, 1fr);
+    align-self: center;
+    grid-column-gap: 70px;
+}
+
+.dr2,.dr3,.dr4 {
+    width: 400px;
+    height: 400px;
+}
+
+
+
+.under-how{
+    width: fit-content;
+    font-size: 25px;
+}
+
+.ss-how{
+    font-family: 'Monserrat', sans-serif;
+}

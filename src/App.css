@@ -1,0 +1,14 @@
+
+.container{
+  min-height: 100vh;
+  text-decoration: none;
+}
+
+
+*{
+  padding: 0;
+  text-decoration: none;
+  list-style: none;
+  font-family: 'Work Sans', sans-serif;
+}
+
